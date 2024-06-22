@@ -1,12 +1,12 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-const Nosotros = () => {
+const Testimonios = () => {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Productos Screen</Text>
+      <Text>Testimonios Screen</Text>
     </View>
   );
 };
 
-export default Nosotros;
+export default Testimonios;
